@@ -1,0 +1,10 @@
+# Unreal Engine
+[Bb]in/
+[Obj]/
+[DerivedDataCache]
+[Saved]/
+Intermediate/
+.vs/
+*.uproject
+*.uplugin
+*..Build.cs
